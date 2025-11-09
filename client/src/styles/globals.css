@@ -1,0 +1,15 @@
+html, body {
+  scroll-behavior: smooth;
+  font-family: 'Inter', sans-serif;
+  background-color: #ffffff;
+  color: #222222;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

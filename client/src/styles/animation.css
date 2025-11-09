@@ -1,0 +1,9 @@
+/* Example fade-in animation */
+.fade-in {
+  @apply opacity-0 animate-fadeIn;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

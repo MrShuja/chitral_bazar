@@ -12,7 +12,7 @@ export const chitralProducts = [
     name: "Chitrali Handmade Cap",
     category: "Cultural Caps",
     price: 800,
-    image: "/images/products/chitral/cap.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Chitrali_Cap.JPG",
     description: "Traditional Chitrali wool cap, handwoven by local artisans."
   },
   {
@@ -20,7 +20,7 @@ export const chitralProducts = [
     name: "Chitrali Dress",
     category: "Dresses",
     price: 2500,
-    image: "/images/products/chitral/dress.jpg",
+    image: "https://m.media-amazon.com/images/I/51Hz+xvzjQL._AC_SY500_.jpg",
     description: "Colorful traditional dress worn in Chitral festivals."
   },
   {
@@ -38,5 +38,13 @@ export const chitralProducts = [
     price: 4800,
     image: "/images/products/chitral/shawl.jpg",
     description: "Soft and warm Pashmina shawl handwoven by skilled artisans."
-  }
+  },
+    {
+    id: 6,
+    name: "Chitrali Handmade Cap for females",
+    category: "Cultural Caps",
+    price: 8000,
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Chitrali_Cap.JPG",
+    description: "Traditional Chitrali female marriage cap, handwoven by local artisans."
+  },
 ];
